@@ -1,0 +1,23 @@
+/* CREATE PAGE SPECIFIC STYLES */
+
+/* -------------------  MOBILE  --------------------- */
+
+header {
+  background-image: url('https://media.istockphoto.com/id/1182762582/photo/mountain-biking-on-trail.jpg?s=612x612&w=0&k=20&c=KZUrfzqBuOqdB9UDD6TCFt2FfF1mpnquBVp5jiWLx94=');
+}
+
+
+/* -------------------  TABLET  --------------------- */
+@media (min-width: 768px) {
+
+}
+
+/* -------------------  DESKTOP  -------------------- */
+
+@media (min-width: 1224px) {
+}
+
+/* -------------------  LARGE SCREENS  -------------- */
+
+@media (min-width: 1824px) {
+}
